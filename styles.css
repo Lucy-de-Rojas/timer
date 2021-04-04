@@ -1,7 +1,9 @@
 body {
-    background-color: aqua;
+    background-color: rgb(157, 240, 240);
     text-align: center;
     width: 100%;
+    padding: 0%;
+    margin: 0%;
 }
 
 h1 {
