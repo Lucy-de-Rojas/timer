@@ -12,6 +12,7 @@ h1 {
     width: 50%;
     margin: auto;
     font-family: 'domage';
+    font-size: 3em;
 
 }
 
@@ -22,6 +23,7 @@ p {
     color: rgb(159, 250, 250);
     font-family: 'chaumont';
     margin: auto;
+    padding: 20px;
 }
 
 
@@ -30,6 +32,7 @@ p {
     color: white;
     font-family: 'colombia';
     margin: auto;
+    padding: 30px;
 
 }
 
