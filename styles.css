@@ -4,12 +4,14 @@ body {
     width: 100%;
     padding: 5% 0 0 0;
     margin: 0%;
+
 }
 
 h1 {
     color: blueviolet;
     width: 50%;
     margin: auto;
+    font-family: 'domage';
 
 }
 
@@ -18,8 +20,28 @@ p {
     width: 75%;
     background-color: red;
     color: rgb(159, 250, 250);
+    font-family: 'chaumont';
 }
 
 
+#lucy {
+    background-color: black;
+    color: white;
+    font-family: 'colombia';
 
+}
 
+@font-face {
+    font-family: 'domage';
+    src: url('./Dommage.ttf');
+}
+
+@font-face {
+    font-family: 'chaumont';
+    src: url('./Chaumont.otf');
+}
+
+@font-face {
+    font-family: 'colombia';
+    src: url('./Colombia.otf');
+}
