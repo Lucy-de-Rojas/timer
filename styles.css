@@ -33,15 +33,15 @@ p {
 
 @font-face {
     font-family: 'domage';
-    src: url('./Dommage.ttf');
+    src: url('./FONTS/Dommage.ttf');
 }
 
 @font-face {
     font-family: 'chaumont';
-    src: url('./Chaumont.otf');
+    src: url('./FONTS/Chaumont.otf');
 }
 
 @font-face {
     font-family: 'colombia';
-    src: url('./Colombia.otf');
+    src: url('./FONTS/Colombia.otf');
 }
