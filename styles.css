@@ -21,6 +21,7 @@ p {
     background-color: red;
     color: rgb(159, 250, 250);
     font-family: 'chaumont';
+    margin: auto;
 }
 
 
@@ -28,6 +29,7 @@ p {
     background-color: black;
     color: white;
     font-family: 'colombia';
+    margin: auto;
 
 }
 
