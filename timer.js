@@ -11,7 +11,7 @@ function changeBackground() {
     setTimeout(()=>{
         document.body.style.backgroundColor = 'rgb(157, 240, 240)';
         button.value = 'hello button';
-    },5000);
+    },2000);
 
 }
 
