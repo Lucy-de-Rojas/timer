@@ -24,6 +24,7 @@ p {
     font-family: 'chaumont';
     margin: auto;
     padding: 20px;
+    font-size: 2em;
 }
 
 
@@ -33,8 +34,14 @@ p {
     font-family: 'colombia';
     margin: auto;
     padding: 30px;
+    font-size: 5em;
 
 }
+
+
+
+
+
 
 @font-face {
     font-family: 'domage';
